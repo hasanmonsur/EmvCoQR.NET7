@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "QR Generate";
+}
+@model WebQRCode.Models.QrData
+
+
+<div class="text-center">
+        <img src='@Url.Action("image")' alt="" />
+
+        <script>
+            $(document).ready(function () {
+
+                alert('ViewBag.image');
+            });
+        </script>
+
+    <div class="text-center">
+        <form asp-controller="Home" asp-action="Index" method="post">
+            <div class="form-group">
+                <label asp-for="txtData">Entry Your Text</label>
+                <input asp-for="txtData" class="form-control" />
+                <span asp-validation-for="txtData" class="text-danger"></span>
+            </div>
+
+            <!-- Add other form fields as needed -->
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+    </div>
+</div>

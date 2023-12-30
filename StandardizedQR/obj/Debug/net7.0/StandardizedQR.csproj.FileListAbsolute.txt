@@ -1,0 +1,16 @@
+D:\blockchain\QRCODE\StandardizedQR\bin\Debug\net7.0\StandardizedQR.deps.json
+D:\blockchain\QRCODE\StandardizedQR\bin\Debug\net7.0\StandardizedQR.dll
+D:\blockchain\QRCODE\StandardizedQR\bin\Debug\net7.0\StandardizedQR.pdb
+D:\blockchain\QRCODE\StandardizedQR\bin\Debug\net7.0\es\StandardizedQR.resources.dll
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.LibraryResources.resources
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.LibraryResources.es.resources
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.csproj.GenerateResource.cache
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.GeneratedMSBuildEditorConfig.editorconfig
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.AssemblyInfoInputs.cache
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.AssemblyInfo.cs
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.csproj.CoreCompileInputs.cache
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\es\StandardizedQR.resources.dll
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.dll
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\refint\StandardizedQR.dll
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\StandardizedQR.pdb
+D:\blockchain\QRCODE\StandardizedQR\obj\Debug\net7.0\ref\StandardizedQR.dll
